@@ -1,0 +1,12 @@
+[build]
+	command = "npm run build"
+	publish = "dist"
+
+[context.production.environment]
+	# Set `API_KEY` in Netlify UI (do not commit secrets)
+	# API_KEY = "REPLACE_ME"
+
+[[redirects]]
+	from = "/*"
+	to = "/index.html"
+	status = 200

@@ -1,0 +1,5 @@
+{
+  "name": "GenUI Builder",
+  "description": "A powerful AI-driven frontend web app generator. Select components, describe your needs, and watch Gemini build the UI logic and content instantly.",
+  "requestFramePermissions": []
+}
