@@ -4,9 +4,6 @@
 
 This repository contains everything you need to run and develop the GenUI Builder app locally and deploy it.
 
-## Quick Links
-- View the running demo in AI Studio: https://ai.studio/apps/drive/1ayFz6mnkumaaqYcdBbVELlgrRzO_2z1Q
-
 ## Features
 - Fast development using `vite` and TypeScript
 - Component rendering utilities in `components/Renderers.tsx`
@@ -57,9 +54,6 @@ npm run preview
 - Fork the repository and create a feature branch.
 - Add tests where applicable and keep changes focused.
 - Open a pull request describing your change and rationale.
-
-## License
-MIT — change to your preferred license if needed.
 
 ## Topics
 react, vite, typescript, ui-builder, component-library, codegen
