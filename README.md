@@ -58,8 +58,6 @@ npm run preview
 ## Topics
 react, vite, typescript, ui-builder, component-library, codegen
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ayFz6mnkumaaqYcdBbVELlgrRzO_2z1Q
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
